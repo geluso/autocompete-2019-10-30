@@ -22,7 +22,7 @@ This challenge requires thinking outside the box. We want you to enhance an
 already existing frightening photograph with creepy additions using only CSS.
 Haunted house images will be provided!
 
-* Follow @SeattleCSS on Twitter to find where they've posted these spooky images:
+* Follow [@SeattleCSS](http://twitter.com/SeattleCSS) on Twitter to find where they've posted these spooky images:
 * https://unsplash.com/photos/bxkyazW_6KY
 * https://unsplash.com/photos/21DP3hytVHw
 * https://unsplash.com/photos/B2Eiil2Y0lo
