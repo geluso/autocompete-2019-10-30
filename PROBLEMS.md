@@ -281,7 +281,7 @@ three of diamonds
 
 Sample Output: `full house`
 
-#### Binary Puzzle
+### Binary Puzzle
 Write a program called `binary_puzzle` to programmatically solve a 6x6 "binary
 puzzle".  The rules are:
 
@@ -317,7 +317,7 @@ Expected Output:
 
 _credit: Rules adapted from binarypuzzle.com_
 
-#### Code Golf
+### Code Golf
 Write a program called `golf` that reads in the position of a golf ball and a
 hole and a list of trajectories. 
 
