@@ -52,10 +52,10 @@ and only one laptop among those three people.
 
 Read the rules in the repo.
 
-http://github.com/geluso/autocompete-2019-10-30/INSTRUCTIONS.md
+https://github.com/geluso/autocompete-2019-10-30/blob/master/INSTRUCTIONS.md
 
 The repo just contains these rules and explanations so far. The problem set
 will be released when the contest begins. Perhaps wait to fork the repo (or
 pull in changes) once the contest has started.
 
-http://github.com/geluso/autocompete-2019-10-30/PROBLEMS.md
+https://github.com/geluso/autocompete-2019-10-30/blob/master/PROBLEMS.md
